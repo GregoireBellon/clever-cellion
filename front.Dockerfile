@@ -1,0 +1,1 @@
+FROM ghcr.io/gregoirebellon/cellion-front:main
